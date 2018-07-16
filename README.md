@@ -12,4 +12,4 @@ Its pipeline has 5 stages.
 5. WriteBack
 
 
-After the simulation on the softwares Icarus Verilog in ModelSim, this project was transferred to an Altera FPGA (MODEL: DE2).
+After the simulation on the softwares Icarus Verilog in ModelSim, this project was transferred to an Altera FPGA (MODEL: DE2);
